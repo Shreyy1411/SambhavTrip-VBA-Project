@@ -67,3 +67,7 @@ Sambhav Trip is a tourism management application designed to streamline customer
 ## Dependencies
 - Microsoft Office (Excel and Access).
 - Macros must be enabled in Excel for VBA functionality.
+
+## Let’s Connect
+If you have questions, feedback, or ideas for improvement, feel free to reach out! You can contact me at shrey14.jain@gmail.com. I’d love to hear from you.
+Thanks for checking out my project. I hope it inspires you to explore how these tools can be combined in creative ways!
